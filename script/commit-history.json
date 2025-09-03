@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-03T19:33:41.000Z",
+      "message": "feat: convierte un 3 a Fizz",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 62,
+      "additions": 62,
+      "deletions": 0,
+      "date": "2025-09-03"
+    },
+    "coverage": 50,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
