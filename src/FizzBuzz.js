@@ -1,4 +1,7 @@
 function ConvertirFizzBuzz(n) {
+    if(n % 15 === 0){
+        return "FizzBuzz";
+    }
     if (n % 3 === 0) {
         return "Fizz";
     }
@@ -7,5 +10,11 @@ function ConvertirFizzBuzz(n) {
     }
   return n.toString();
 }
-
-export {ConvertirFizzBuzz};
+function SecuenciaFizzBuzz(lim) {
+    let resultado = [];
+    for (let i = 1; i <= lim; i++) {
+        resultado.push(ConvertirFizzBuzz(i));
+    }
+    return resultado.join(", ");
+}
+export {ConvertirFizzBuzz, SecuenciaFizzBuzz};
