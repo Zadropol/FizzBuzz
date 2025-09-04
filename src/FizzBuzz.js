@@ -17,4 +17,5 @@ function SecuenciaFizzBuzz(lim) {
     }
     return resultado.join(", ");
 }
+
 export {ConvertirFizzBuzz, SecuenciaFizzBuzz};

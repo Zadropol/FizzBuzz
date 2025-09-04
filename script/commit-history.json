@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "003e5a7b169b08e15d63beee57b725d9ccc53014",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-04T02:57:40.000Z",
       "message": "feat: el codigo ya devuelve FizzBuzz si el numero es multiplo tanto de 3 como de 5",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/003e5a7b169b08e15d63beee57b725d9ccc53014"
     },
     "stats": {
       "total": 57,
       "additions": 35,
       "deletions": 22,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-04T03:09:20.000Z",
+      "message": "feat: actualizacion del presenter y del index",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 49,
+      "additions": 25,
+      "deletions": 24,
       "date": "2025-09-04"
     },
     "coverage": 100,
