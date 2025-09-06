@@ -24,5 +24,11 @@ describe("FizzBuzz", () => {
   });
 });
 
+describe("FizzBuzz", () => {
+  it("Deberia devolver 10 a Buzz", () => {
+    expect(ConvertirFizzBuzz(10)).toBe("Buzz");
+  });
+});
+
 
 

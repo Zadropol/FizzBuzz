@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "aece740155cfe89e101618dd03ac8d5e26ae5075",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T02:52:40.000Z",
       "message": "feat: el codigo devuelve Buzz cuando se envia 5",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/aece740155cfe89e101618dd03ac8d5e26ae5075"
     },
     "stats": {
       "total": 15,
@@ -169,5 +169,24 @@
     "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T02:54:01.000Z",
+      "message": "feat: el codigo convierte un multiplo de 5 a Buzz",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
