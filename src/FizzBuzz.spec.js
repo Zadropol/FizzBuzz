@@ -12,3 +12,10 @@ describe("FizzBuzz", () => {
   });
 });
 
+
+describe("FizzBuzz", () => {
+  it("Deberia devolver un multiplo de 3 Fizz", () => {
+    expect(ConvertirFizzBuzz(9)).toBe("Fizz");
+  });
+});
+
