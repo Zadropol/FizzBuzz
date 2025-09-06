@@ -42,6 +42,13 @@ describe("FizzBuzz", () => {
   });
 });
 
+describe("FizzBuzz", () => {
+  it("Deberia devolver una lista de tamanio N con sus numeros literales", () => {
+    expect(SecuenciaFizzBuzz(10)).toBe("1, 2, 3, 4, 5, 6, 7, 8, 9, 10");
+  });
+});
+
+
 
 
 

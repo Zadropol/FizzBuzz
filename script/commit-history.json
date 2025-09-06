@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d0cceb752f4f39816468927fb5fbaed26b02022b",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T03:06:42.000Z",
       "message": "feat: devuelve una lista de tamanio n",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/d0cceb752f4f39816468927fb5fbaed26b02022b"
     },
     "stats": {
       "total": 12,
@@ -224,6 +224,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T03:12:06.000Z",
+      "message": "feat: devuelve una lista con sus posiciones  en numeros literales",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
