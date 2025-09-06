@@ -1,13 +1,17 @@
 function ConvertirFizzBuzz(numero){
-    if(numero % 3 ===0)
+    if(numero % 15 === 0)
+    {
+        return "FizzBuzz";
+    }
+    if(numero % 3 === 0)
     {
         return "Fizz";
     }
-    if(numero === 5)
+    if(numero % 5 === 0)
     {
         return "Buzz";
     }
-    return numero.toString();
+return numero.toString();
 };
 
 export {ConvertirFizzBuzz}
