@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5fc86e13c13db9457806167fadd4cd0d061c5737",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T02:47:29.000Z",
       "message": "feat: convierte un n a un n-literal",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/5fc86e13c13db9457806167fadd4cd0d061c5737"
     },
     "stats": {
       "total": 15,
@@ -112,5 +112,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T02:49:50.000Z",
+      "message": "fix: ahora convierte un 3 a Fizz y un n a literal",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 8,
+      "deletions": 4,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
