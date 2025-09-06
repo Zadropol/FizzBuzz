@@ -247,16 +247,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "70d4db2888fd13dd8cf01ea61556fb5a4ce11ee2",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T03:15:56.000Z",
       "message": "feat: el codigo devuelve la lista correcta",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/70d4db2888fd13dd8cf01ea61556fb5a4ce11ee2"
     },
     "stats": {
       "total": 24,
       "additions": 19,
+      "deletions": 5,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T03:19:42.000Z",
+      "message": "Style: Se mantiene el disenio del anterior codigo, sin modificaciones tecnicas",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 0,
       "deletions": 5,
       "date": "2025-09-06"
     },
