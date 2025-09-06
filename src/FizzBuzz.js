@@ -14,4 +14,7 @@ function ConvertirFizzBuzz(numero){
 return numero.toString();
 };
 
-export {ConvertirFizzBuzz}
+function SecuenciaFizzBuzz(N){
+    return "1, 2, 3, 4, 5, 6, 7, 8, 9, 10";
+};
+export {SecuenciaFizzBuzz, ConvertirFizzBuzz}

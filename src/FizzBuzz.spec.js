@@ -1,4 +1,4 @@
-import { ConvertirFizzBuzz } from "./FizzBuzz.js";
+import { SecuenciaFizzBuzz, ConvertirFizzBuzz } from "./FizzBuzz.js";
 
 describe("FizzBuzz", () => {
   it("Deberia devolver 1 a 1 en forma literal", () => {
@@ -36,6 +36,11 @@ describe("FizzBuzz", () => {
   });
 });
 
+describe("FizzBuzz", () => {
+  it("Deberia devolver una lista de tamanio N", () => {
+    expect(SecuenciaFizzBuzz()).toBe("1, 2, 3, 4, 5, 6, 7, 8, 9, 10");
+  });
+});
 
 
 

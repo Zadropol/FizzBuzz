@@ -190,12 +190,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "e7f2042d652d3239a6afe9c4d0c445ab4ee5823c",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T02:59:25.000Z",
       "message": "feat: el codigo convierte un multiplo de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/e7f2042d652d3239a6afe9c4d0c445ab4ee5823c"
     },
     "stats": {
       "total": 18,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T03:06:42.000Z",
+      "message": "feat: devuelve una lista de tamanio n",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 10,
+      "deletions": 2,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
