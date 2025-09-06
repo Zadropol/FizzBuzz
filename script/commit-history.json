@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d24def4747a2b613ed0898f95f7f6e27c51815a7",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-04T03:09:20.000Z",
       "message": "feat: actualizacion del presenter y del index",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/d24def4747a2b613ed0898f95f7f6e27c51815a7"
     },
     "stats": {
       "total": 49,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T02:42:28.000Z",
+      "message": "feat: Convierte un 3 a Fizz",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 84,
+      "additions": 9,
+      "deletions": 75,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
   }
