@@ -11,10 +11,17 @@ function ConvertirFizzBuzz(numero){
     {
         return "Buzz";
     }
+    
 return numero.toString();
-};
+}
 
 function SecuenciaFizzBuzz(N){
-    return "1, 2, 3, 4, 5, 6, 7, 8, 9, 10";
-};
+    let resultado = [];
+    for(let i = 1; i <= N; i++){
+        resultado.push(ConvertirFizzBuzz(i));
+    }
+    return resultado.join(", ");
+}
+
+
 export {SecuenciaFizzBuzz, ConvertirFizzBuzz}

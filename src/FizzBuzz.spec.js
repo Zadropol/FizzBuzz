@@ -38,15 +38,22 @@ describe("FizzBuzz", () => {
 
 describe("FizzBuzz", () => {
   it("Deberia devolver una lista de tamanio N", () => {
-    expect(SecuenciaFizzBuzz()).toBe("1, 2, 3, 4, 5, 6, 7, 8, 9, 10");
+    expect(SecuenciaFizzBuzz(10)).toBe("1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz");
   });
 });
 
 describe("FizzBuzz", () => {
   it("Deberia devolver una lista de tamanio N con sus numeros literales", () => {
-    expect(SecuenciaFizzBuzz(10)).toBe("1, 2, 3, 4, 5, 6, 7, 8, 9, 10");
+    expect(SecuenciaFizzBuzz(10)).toBe("1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz");
   });
 });
+
+describe("FizzBuzz", () => {
+  it("Deberia devolver una lista de tamanio N convirtiendo ciertos numeros en Fizz, Buzz o FizzBuzz dependiendo las reglas del negocio", () => {
+    expect(SecuenciaFizzBuzz(10)).toBe("1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz");
+  });
+});
+
 
 
 

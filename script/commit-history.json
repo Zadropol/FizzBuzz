@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5038d93ead342c1abdf9a22fafb6ace445fa0a16",
     "author": "Adrian Rodriguez",
     "commit": {
       "date": "2025-09-06T03:12:06.000Z",
       "message": "feat: devuelve una lista con sus posiciones  en numeros literales",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/5038d93ead342c1abdf9a22fafb6ace445fa0a16"
     },
     "stats": {
       "total": 7,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Rodriguez",
+    "commit": {
+      "date": "2025-09-06T03:15:56.000Z",
+      "message": "feat: el codigo devuelve la lista correcta",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 19,
+      "deletions": 5,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
