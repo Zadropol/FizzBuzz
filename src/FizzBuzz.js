@@ -1,5 +1,5 @@
 function ConvertirFizzBuzz(numero){
-    return "Fizz";
+    return numero.toString();
 };
 
 export {ConvertirFizzBuzz}
